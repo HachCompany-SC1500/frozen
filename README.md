@@ -1,0 +1,2 @@
+# frozen
+JSON parser
